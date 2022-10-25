@@ -35,6 +35,15 @@ h1{
     border-radius: 18px;
 
 }
+.announce{
+    background-color: aqua;
+
+}
+.announce p{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 900px;
+}
 .link1 {
     background-color: aquamarine;
     font-size: 30px;
